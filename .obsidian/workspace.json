@@ -6,6 +6,7 @@
       {
         "id": "6ae67381ad930218",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "c4168d9134197107",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Words (Course and Duolingo).md",
+                "file": "Course Recording Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Words (Course and Duolingo)"
+              "title": "Course Recording Notes"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "fa00e86b1ddbfad2",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "55ef25570959388a",
@@ -186,8 +188,9 @@
   },
   "active": "c4168d9134197107",
   "lastOpenFiles": [
-    "A. French Basics.md",
     "Common Words (Course and Duolingo).md",
+    "Course Recording Notes.md",
+    "A. French Basics.md",
     "Pasted image 20250527215534.png",
     "Welcome.md"
   ]
