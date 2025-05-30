@@ -1,4 +1,4 @@
-## 🎧 Recording 1 — Week 1: Révision de la semaine dernière
+# 🎧 Recording 1 — Week 2: Révision de la semaine dernière
 
 ---
 
@@ -78,3 +78,60 @@ You might want to create separate linked notes for:
 - [[Vocabulary/People]]
     
 - [[Grammar/Questions]]
+
+# 🎧 Recording 2 — Week 3: Révision de la semaine dernière
+
+![[Pasted image 20250529183235.png]]
+
+an en and in are close in terms of speaking , slowly you will hear the difference
+
+A noun must be masculine or feminine 
+
+![[Screenshot from 2025-05-29 18-44-10.png]]
+
+## In class
+
+IL y a (eel e ya) - there is / are
+
+Le genre et le monbre
+
+![[Pasted image 20250529192334.png]]
+
+s and x can be plural markers
+
+oi - wah sound
+for numbers hyphen - trait d’union
+![[Pasted image 20250529194358.png]]
+
+liaison - A word final consonant that is normally silent at the end of a word, becomes voiced/pronounced when followed by a vowel sound.
+
+French p10 
+12
+7
+15
+18roficiency tests have dictee sections also.
+
+30
+45
+16
+57
+60
+
+s - s/z
+s will make a z sound before a vowel sound
+
+Un/une/des - indefinite articles
+Le/lal’/les- definite articles
+
+indefinite translate to “a or some”
+definite translate to “the”
+in French, we use definite articles to talk about subjects or things in general
+
+Le- m.s.
+la- f.s
+l’ - when the noun starts with a vowel and is singular
+
+spe ci aa l
+
+
+![[Pasted image 20250529203512.png]]
