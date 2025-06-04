@@ -39,14 +39,14 @@
 
 ### Present Tense Conjugation
 
-| Subject        | Verb   | English Translation  | Notes                      |
-| -------------- | ------ | -------------------- | -------------------------- |
-| je suis        | suis   | I am                 |                            |
-| tu es          | es     | you are (informal)   | Sounds like "est"          |
-| il/elle/on est | est    | he/she/one is        | "es" and "est" sound alike |
-| nous sommes    | sommes | we are               |                            |
-| vous êtes      | êtes   | you are (formal/pl.) | Note accent: "êtes"        |
-| ils/elles sont | sont   | they are             | Silent 't'                 |
+| Subject                                                                      | Verb   | English Translation  | Notes                      |
+| ---------------------------------------------------------------------------- | ------ | -------------------- | -------------------------- |
+| je suis                                                                      | suis   | I am                 |                            |
+| tu es                                                                        | es     | you are (informal)   | Sounds like "est"          |
+| il/elle/on est                                                               | est    | he/she/one is        | "es" and "est" sound alike |
+| nous sommes  🔊 [voiture pronunciation](https://forvo.com/search/sommes/fr/) | sommes | we are               |                            |
+| vous êtes                                                                    | êtes   | you are (formal/pl.) | Note accent: "êtes"        |
+| ils/elles sont                                                               | sont   | they are             | Silent 't'                 |
 
 ## ❓ Yes/No Questions in French
 

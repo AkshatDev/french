@@ -38,14 +38,14 @@
 # Nouns – People & Time
 
 ## People
-|English|French|Notes|
-|---|---|---|
-|Man|homme|"H" is silent|
-|Woman|femme|Pronounced like “fum”|
-|Boy|garçon|The “ç” is soft like “s”|
-|Girl|fille|The "ll" sounds like "y"|
-|Friend (m)|ami|“Un ami”|
-|Friend (f)|amie|“Une amie”|
+| English    | French | Notes                    |
+| ---------- | ------ | ------------------------ |
+| Man        | homme  | "H" is silent            |
+| Woman      | femme  | Pronounced like “fum”    |
+| Boy        | garçon | The “ç” is soft like “s” |
+| Girl       | fille  | The "ll" sounds like "y" |
+| Friend (m) | ami    | “Un ami”                 |
+| Friend (f) | amie   | “Une amie”               |
 ## Time words
 |English|French|Notes|
 |---|---|---|
@@ -120,3 +120,6 @@
 |Big|grand(e)|Comes before noun|
 |Small|petit(e)|Also before noun|
 |Beautiful|beau / belle|“Un beau jour…”|
+
+- <span style="color:pink">la Femme</span> – female
+
